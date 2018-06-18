@@ -1,0 +1,7 @@
+class sandesh
+{
+public void main()
+{
+system.out.println("sandesh");
+}
+}
